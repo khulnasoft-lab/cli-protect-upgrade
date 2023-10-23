@@ -21,9 +21,9 @@
     "url": "https://github.com/khulnasoft-lab/cli-protect-upgrade.git"
   },
   "devDependencies": {
-    "@types/fs-extra": "^9.0.12",
+    "@types/fs-extra": "^11.0.0",
     "@types/jest": "^27.0.1",
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^11.0.0",
     "jest": "^27.1.0",
     "prettier": "^2.3.2",
     "ts-jest": "^27.0.5",
